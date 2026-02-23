@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\bin\Debug\net9.0\OrientacaoObj.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\bin\Debug\net9.0\OrientacaoObj.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\bin\Debug\net9.0\OrientacaoObj.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\bin\Debug\net9.0\OrientacaoObj.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\bin\Debug\net9.0\OrientacaoObj.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\OrientacaoObj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\OrientacaoObj.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\OrientacaoObj.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\OrientacaoObj.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\OrientacaoObj.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\OrientacaoObj.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\refint\OrientacaoObj.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\OrientacaoObj.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\OrientacaoObj.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\OrientacaoObj\obj\Debug\net9.0\ref\OrientacaoObj.dll

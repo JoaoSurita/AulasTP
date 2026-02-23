@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "primeiroProjeto", "primeiroProjeto\primeiroProjeto.csproj", "{8B0DE368-D917-4BF9-AE1F-1E8A14FF3042}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrientacaoObj", "OrientacaoObj\OrientacaoObj.csproj", "{3FD5679D-EF2B-43F3-AFF7-D93F124F54C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca", "Heranca\Heranca.csproj", "{36BEF695-2323-4D53-89F8-D99A5BB1392F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{8B0DE368-D917-4BF9-AE1F-1E8A14FF3042}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B0DE368-D917-4BF9-AE1F-1E8A14FF3042}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B0DE368-D917-4BF9-AE1F-1E8A14FF3042}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD5679D-EF2B-43F3-AFF7-D93F124F54C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD5679D-EF2B-43F3-AFF7-D93F124F54C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD5679D-EF2B-43F3-AFF7-D93F124F54C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD5679D-EF2B-43F3-AFF7-D93F124F54C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36BEF695-2323-4D53-89F8-D99A5BB1392F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36BEF695-2323-4D53-89F8-D99A5BB1392F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36BEF695-2323-4D53-89F8-D99A5BB1392F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36BEF695-2323-4D53-89F8-D99A5BB1392F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
