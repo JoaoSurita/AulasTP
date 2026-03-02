@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\Array.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\bin\Debug\net8.0\Array.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\bin\Debug\net8.0\Array.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\bin\Debug\net8.0\Array.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\bin\Debug\net8.0\Array.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\Array.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\refint\Array.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\Array.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\Array\Array\obj\Debug\net8.0\ref\Array.dll

@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Array_ArrayList_List\ArrayList\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll
