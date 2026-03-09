@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{908BAA49-E2D3-4479-8AB1-8FD578195A21}|Composicao\\Composicao.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\composicao\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BAA49-E2D3-4479-8AB1-8FD578195A21}|Composicao\\Composicao.csproj|solutionrelative:composicao\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{908BAA49-E2D3-4479-8AB1-8FD578195A21}|Composicao\\Composicao.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{908BAA49-E2D3-4479-8AB1-8FD578195A21}|Composicao\\Composicao.csproj|solutionrelative:composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97AAA7B7-443E-4B77-AA11-FF6F79E2B917}|Associacao\\Associacao.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\associacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97AAA7B7-443E-4B77-AA11-FF6F79E2B917}|Associacao\\Associacao.csproj|solutionrelative:associacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Composicao\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Composicao\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Composicao\\Pessoa.cs",
+              "RelativeToolTip": "Composicao\\Pessoa.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:50:59.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "Composicao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Composicao\\Program.cs*",
+              "RelativeToolTip": "Composicao\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:49:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Associacao\\Program.cs",
+              "RelativeDocumentMoniker": "Associacao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Associacao\\Program.cs",
+              "RelativeToolTip": "Associacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T13:51:28.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

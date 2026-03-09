@@ -1,0 +1,5 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Associacao\obj\Debug\net8.0\Associacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Associacao\obj\Debug\net8.0\Associacao.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Associacao\obj\Debug\net8.0\Associacao.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Associacao\obj\Debug\net8.0\Associacao.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Associacao\obj\Debug\net8.0\Associacao.sourcelink.json
