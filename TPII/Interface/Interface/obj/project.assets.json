@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Interface\\Interface\\Interface.csproj",
-      "projectName": "Interface",
-      "projectPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Interface\\Interface\\Interface.csproj",
+      "projectUniqueName": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Interface\\Interface\\Interface_programador.csproj",
+      "projectName": "Interface_programador",
+      "projectPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Interface\\Interface\\Interface_programador.csproj",
       "packagesPath": "C:\\Users\\0201392511020\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Interface\\Interface\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\bin\Debug\net9.0\ICollection.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\bin\Debug\net9.0\ICollection.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\bin\Debug\net9.0\ICollection.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\bin\Debug\net9.0\ICollection.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\bin\Debug\net9.0\ICollection.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ICollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ICollection.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ICollection.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ICollection.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ICollection.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ICollection.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\refint\ICollection.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ICollection.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ICollection.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Interface\ICollection\obj\Debug\net9.0\ref\ICollection.dll
