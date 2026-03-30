@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C43FF723-61E3-4AD8-B420-1C4A42F82ED3}|Personalizada\\Personalizada.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\excecao\\personalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C43FF723-61E3-4AD8-B420-1C4A42F82ED3}|Personalizada\\Personalizada.csproj|solutionrelative:personalizada\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A07BD46-2FED-49AE-9E66-A5FE0558FC83}|Throw\\Throw.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\excecao\\throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A07BD46-2FED-49AE-9E66-A5FE0558FC83}|Throw\\Throw.csproj|solutionrelative:throw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A07BD46-2FED-49AE-9E66-A5FE0558FC83}|Throw\\Throw.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\excecao\\throw\\throw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A07BD46-2FED-49AE-9E66-A5FE0558FC83}|Throw\\Throw.csproj|solutionrelative:throw\\throw.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475120DA-B8CE-4E13-9B87-39FE5A8667DD}|Excecao\\Excecao.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\excecao\\excecao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475120DA-B8CE-4E13-9B87-39FE5A8667DD}|Excecao\\Excecao.csproj|solutionrelative:excecao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\Personalizada\\Program.cs",
+              "RelativeDocumentMoniker": "Personalizada\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\Personalizada\\Program.cs",
+              "RelativeToolTip": "Personalizada\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:36:10.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Throw",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\Throw\\Throw.csproj",
+              "RelativeDocumentMoniker": "Throw\\Throw.csproj",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\Throw\\Throw.csproj",
+              "RelativeToolTip": "Throw\\Throw.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-30T13:22:20.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\Throw\\Program.cs",
+              "RelativeDocumentMoniker": "Throw\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\Throw\\Program.cs",
+              "RelativeToolTip": "Throw\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T13:12:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\Excecao\\Program.cs",
+              "RelativeDocumentMoniker": "Excecao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Excecao\\Excecao\\Program.cs",
+              "RelativeToolTip": "Excecao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T12:49:31.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\bin\Debug\net9.0\Throw.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\bin\Debug\net9.0\Throw.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\bin\Debug\net9.0\Throw.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\bin\Debug\net9.0\Throw.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\bin\Debug\net9.0\Throw.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\Throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\Throw.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\Throw.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\Throw.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\Throw.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\Throw.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\refint\Throw.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\Throw.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\Throw.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Throw\obj\Debug\net9.0\ref\Throw.dll

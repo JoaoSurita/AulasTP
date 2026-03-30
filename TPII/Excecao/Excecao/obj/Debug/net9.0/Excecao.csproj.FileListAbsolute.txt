@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\bin\Debug\net9.0\Excecao.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\bin\Debug\net9.0\Excecao.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\bin\Debug\net9.0\Excecao.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\bin\Debug\net9.0\Excecao.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\bin\Debug\net9.0\Excecao.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\Excecao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\Excecao.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\Excecao.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\Excecao.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\Excecao.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\Excecao.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\refint\Excecao.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\Excecao.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\Excecao.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Excecao\obj\Debug\net9.0\ref\Excecao.dll

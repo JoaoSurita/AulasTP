@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\Personalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\Personalizada.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\Personalizada.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\Personalizada.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\Personalizada.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\bin\Debug\net9.0\Personalizada.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\bin\Debug\net9.0\Personalizada.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\bin\Debug\net9.0\Personalizada.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\bin\Debug\net9.0\Personalizada.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\bin\Debug\net9.0\Personalizada.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\Personalizada.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\refint\Personalizada.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\Personalizada.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\Personalizada.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Excecao\Personalizada\obj\Debug\net9.0\ref\Personalizada.dll
