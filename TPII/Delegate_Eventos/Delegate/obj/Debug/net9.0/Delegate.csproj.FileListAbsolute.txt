@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate\obj\Debug\net9.0\ref\Delegate.dll

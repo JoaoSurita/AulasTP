@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\bin\Debug\net9.0\Delegate_Eventos.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\bin\Debug\net9.0\Delegate_Eventos.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\bin\Debug\net9.0\Delegate_Eventos.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\bin\Debug\net9.0\Delegate_Eventos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\bin\Debug\net9.0\Delegate_Eventos.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\Delegate_Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\Delegate_Eventos.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\Delegate_Eventos.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\Delegate_Eventos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\Delegate_Eventos.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\Delegate_Eventos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\refint\Delegate_Eventos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\Delegate_Eventos.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\Delegate_Eventos.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\Delegate_Eventos\obj\Debug\net9.0\ref\Delegate_Eventos.dll

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB4518-3B09-47BC-A3E2-C95B837070E6}|EventHandle_SemArgumentos\\EventHandle_SemArgumentos.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\delegate_eventos\\eventhandle_semargumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FB4518-3B09-47BC-A3E2-C95B837070E6}|EventHandle_SemArgumentos\\EventHandle_SemArgumentos.csproj|solutionrelative:eventhandle_semargumentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4031953D-26D3-49A4-9BF7-5F696B10052D}|Delegate\\Delegate.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\delegate_eventos\\delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4031953D-26D3-49A4-9BF7-5F696B10052D}|Delegate\\Delegate.csproj|solutionrelative:delegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55604205-B167-4887-8740-9BBE3402AB13}|Delegate_Eventos\\Delegate_Eventos.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\delegate_eventos\\delegate_eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55604205-B167-4887-8740-9BBE3402AB13}|Delegate_Eventos\\Delegate_Eventos.csproj|solutionrelative:delegate_eventos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\EventHandle_SemArgumentos\\Program.cs",
+              "RelativeDocumentMoniker": "EventHandle_SemArgumentos\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\EventHandle_SemArgumentos\\Program.cs",
+              "RelativeToolTip": "EventHandle_SemArgumentos\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T12:36:12.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate_Eventos\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate_Eventos\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate_Eventos\\Program.cs",
+              "RelativeToolTip": "Delegate_Eventos\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:34:56.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Program.cs",
+              "RelativeToolTip": "Delegate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T11:21:35.443Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
