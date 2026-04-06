@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\bin\Debug\net9.0\EventHandle_SemArgumentos.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\bin\Debug\net9.0\EventHandle_SemArgumentos.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\bin\Debug\net9.0\EventHandle_SemArgumentos.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\bin\Debug\net9.0\EventHandle_SemArgumentos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\bin\Debug\net9.0\EventHandle_SemArgumentos.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\EventHandle_SemArgumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\EventHandle_SemArgumentos.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\EventHandle_SemArgumentos.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\EventHandle_SemArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\EventHandle_SemArgumentos.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\EventHandle_SemArgumentos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\refint\EventHandle_SemArgumentos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\EventHandle_SemArgumentos.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\EventHandle_SemArgumentos.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\Delegate_Eventos\EventHandle_SemArgumentos\obj\Debug\net9.0\ref\EventHandle_SemArgumentos.dll
