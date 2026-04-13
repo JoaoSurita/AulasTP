@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Delegate.csproj": {}
+    "C:\\Users\\Usuário\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Delegate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Delegate.csproj": {
+    "C:\\Users\\Usuário\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Delegate.csproj",
+        "projectUniqueName": "C:\\Users\\Usuário\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Delegate.csproj",
         "projectName": "Delegate",
-        "projectPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Delegate.csproj",
-        "packagesPath": "C:\\Users\\0201392511020\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\obj\\",
+        "projectPath": "C:\\Users\\Usuário\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\Delegate.csproj",
+        "packagesPath": "C:\\Users\\Usuário\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Usuário\\Desktop\\AulasTP\\TPII\\Delegate_Eventos\\Delegate\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\0201392511020\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Usuário\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,7 +40,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

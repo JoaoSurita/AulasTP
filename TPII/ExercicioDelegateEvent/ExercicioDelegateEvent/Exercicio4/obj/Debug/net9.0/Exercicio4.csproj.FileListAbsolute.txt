@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\bin\Debug\net9.0\Exercicio4.exe
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\bin\Debug\net9.0\Exercicio4.deps.json
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\bin\Debug\net9.0\Exercicio4.runtimeconfig.json
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\bin\Debug\net9.0\Exercicio4.dll
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\bin\Debug\net9.0\Exercicio4.pdb
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\Exercicio4.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\Exercicio4.sourcelink.json
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\Exercicio4.dll
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\refint\Exercicio4.dll
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\Exercicio4.pdb
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\Exercicio4.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\AulasTP\TPII\ExercicioDelegateEvent\ExercicioDelegateEvent\Exercicio4\obj\Debug\net9.0\ref\Exercicio4.dll

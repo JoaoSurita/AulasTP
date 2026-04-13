@@ -16,4 +16,3 @@ Console.ReadKey();
 
 // Primeira etapa
 public delegate void MeuDelegate(string msg);
-
