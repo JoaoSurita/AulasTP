@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50490993-E84A-46B9-9F76-999B7B62B4E4}|Exercicio4\\Exercicio4.csproj|c:\\users\\usu\u00E1rio\\desktop\\aulastp\\tpii\\exerciciolinq\\exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50490993-E84A-46B9-9F76-999B7B62B4E4}|Exercicio4\\Exercicio4.csproj|solutionrelative:exercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C33CE2B-FEFB-4838-B021-1EE54401A89B}|Exercicio3\\Exercicio3.csproj|c:\\users\\usu\u00E1rio\\desktop\\aulastp\\tpii\\exerciciolinq\\exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C33CE2B-FEFB-4838-B021-1EE54401A89B}|Exercicio3\\Exercicio3.csproj|solutionrelative:exercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47ECD555-892A-4188-9438-4AF0223001F0}|Exercicio2\\Exercicio2.csproj|c:\\users\\usu\u00E1rio\\desktop\\aulastp\\tpii\\exerciciolinq\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47ECD555-892A-4188-9438-4AF0223001F0}|Exercicio2\\Exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC900EDB-D65E-420C-A21E-90FEA81AAE54}|Exercicio1\\Exercicio1.csproj|c:\\users\\usu\u00E1rio\\desktop\\aulastp\\tpii\\exerciciolinq\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC900EDB-D65E-420C-A21E-90FEA81AAE54}|Exercicio1\\Exercicio1.csproj|solutionrelative:exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\Exercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio4\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\Exercicio4\\Program.cs",
+              "RelativeToolTip": "Exercicio4\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T21:46:29.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\Exercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio3\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\Exercicio3\\Program.cs",
+              "RelativeToolTip": "Exercicio3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T21:44:36.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\Exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\Exercicio2\\Program.cs",
+              "RelativeToolTip": "Exercicio2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T21:44:06.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\Exercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1\\Program.cs",
+              "ToolTip": "C:\\Users\\Usu\u00E1rio\\Desktop\\AulasTP\\TPII\\ExercicioLinq\\Exercicio1\\Program.cs",
+              "RelativeToolTip": "Exercicio1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T21:42:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
