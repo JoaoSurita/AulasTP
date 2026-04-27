@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A854361-FF57-4971-A180-6804DF6C9A25}|SerializacaoDesserializacaoComArquivo\\SerializacaoDesserializacaoComArquivo.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\manipulacaodearquivos\\serializacaodesserializacaocomarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A854361-FF57-4971-A180-6804DF6C9A25}|SerializacaoDesserializacaoComArquivo\\SerializacaoDesserializacaoComArquivo.csproj|solutionrelative:serializacaodesserializacaocomarquivo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF2371D-FDC0-476B-A0B2-E043F159CB77}|SerializacaoDesserializacao\\SerializacaoDesserializacao.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\manipulacaodearquivos\\serializacaodesserializacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF2371D-FDC0-476B-A0B2-E043F159CB77}|SerializacaoDesserializacao\\SerializacaoDesserializacao.csproj|solutionrelative:serializacaodesserializacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7918D854-4638-4C5D-B166-B58EEFCA0092}|ManipulacaoDeArquivos\\ManipulacaoDeArquivos.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\manipulacaodearquivos\\manipulacaodearquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7918D854-4638-4C5D-B166-B58EEFCA0092}|ManipulacaoDeArquivos\\ManipulacaoDeArquivos.csproj|solutionrelative:manipulacaodearquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7918D854-4638-4C5D-B166-B58EEFCA0092}|ManipulacaoDeArquivos\\ManipulacaoDeArquivos.csproj|c:\\users\\0201392511020\\desktop\\aulastp\\tpii\\manipulacaodearquivos\\manipulacaodearquivos\\arquivo1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7918D854-4638-4C5D-B166-B58EEFCA0092}|ManipulacaoDeArquivos\\ManipulacaoDeArquivos.csproj|solutionrelative:manipulacaodearquivos\\arquivo1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\SerializacaoDesserializacaoComArquivo\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoDesserializacaoComArquivo\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\SerializacaoDesserializacaoComArquivo\\Program.cs",
+              "RelativeToolTip": "SerializacaoDesserializacaoComArquivo\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:36:01.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\SerializacaoDesserializacao\\Program.cs",
+              "RelativeDocumentMoniker": "SerializacaoDesserializacao\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\SerializacaoDesserializacao\\Program.cs",
+              "RelativeToolTip": "SerializacaoDesserializacao\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:23:27.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "arquivo1.txt",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\ManipulacaoDeArquivos\\arquivo1.txt",
+              "RelativeDocumentMoniker": "ManipulacaoDeArquivos\\arquivo1.txt",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\ManipulacaoDeArquivos\\arquivo1.txt",
+              "RelativeToolTip": "ManipulacaoDeArquivos\\arquivo1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-27T11:21:46.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\ManipulacaoDeArquivos\\Program.cs",
+              "RelativeDocumentMoniker": "ManipulacaoDeArquivos\\Program.cs",
+              "ToolTip": "C:\\Users\\0201392511020\\Desktop\\AulasTP\\TPII\\ManipulacaoDeArquivos\\ManipulacaoDeArquivos\\Program.cs",
+              "RelativeToolTip": "ManipulacaoDeArquivos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T11:08:28.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

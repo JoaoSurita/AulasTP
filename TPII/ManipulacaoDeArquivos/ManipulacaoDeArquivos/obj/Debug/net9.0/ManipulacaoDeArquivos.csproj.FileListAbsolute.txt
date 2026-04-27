@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net9.0\ManipulacaoDeArquivos.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net9.0\ManipulacaoDeArquivos.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net9.0\ManipulacaoDeArquivos.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net9.0\ManipulacaoDeArquivos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\bin\Debug\net9.0\ManipulacaoDeArquivos.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ManipulacaoDeArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ManipulacaoDeArquivos.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ManipulacaoDeArquivos.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ManipulacaoDeArquivos.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ManipulacaoDeArquivos.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ManipulacaoDeArquivos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\refint\ManipulacaoDeArquivos.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ManipulacaoDeArquivos.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ManipulacaoDeArquivos.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\ManipulacaoDeArquivos\obj\Debug\net9.0\ref\ManipulacaoDeArquivos.dll

@@ -1,0 +1,15 @@
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\bin\Debug\net9.0\SerializacaoDesserializacao.exe
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\bin\Debug\net9.0\SerializacaoDesserializacao.deps.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\bin\Debug\net9.0\SerializacaoDesserializacao.runtimeconfig.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\bin\Debug\net9.0\SerializacaoDesserializacao.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\bin\Debug\net9.0\SerializacaoDesserializacao.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\SerializacaoDesserializacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\SerializacaoDesserializacao.AssemblyInfoInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\SerializacaoDesserializacao.AssemblyInfo.cs
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\SerializacaoDesserializacao.csproj.CoreCompileInputs.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\SerializacaoDesserializacao.sourcelink.json
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\SerializacaoDesserializacao.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\refint\SerializacaoDesserializacao.dll
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\SerializacaoDesserializacao.pdb
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\SerializacaoDesserializacao.genruntimeconfig.cache
+C:\Users\0201392511020\Desktop\AulasTP\TPII\ManipulacaoDeArquivos\SerializacaoDesserializacao\obj\Debug\net9.0\ref\SerializacaoDesserializacao.dll
