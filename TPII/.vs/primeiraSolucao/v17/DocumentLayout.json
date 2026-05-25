@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -47,8 +51,7 @@
               "RelativeToolTip": "Composicao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T11:49:30.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T11:49:30.163Z"
             },
             {
               "$type": "Document",
@@ -60,8 +63,7 @@
               "RelativeToolTip": "Associacao\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T13:51:28.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T13:51:28.105Z"
             }
           ]
         }

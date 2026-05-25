@@ -1,0 +1,6 @@
+@TodoAqui_HostAddress = http://localhost:5204
+
+GET {{TodoAqui_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
